@@ -1,4 +1,6 @@
-# CprE_288
+# Course Number
+CprE 288 - Embedded Systems I: Introduction
+
 # Class Overview
 CprE 288 was a class primarily based around a CyBot (i.e. a robot that performed and was controlled similarly to an automated robot vacuum). The main idea was to use numerous labs to build up to a final project where the bot could be controlled, blindly, via either a GUI or fully automated, or even both. The class focused on UART, Embedded Software, and learning C code, as this is the first class in the CprE curriculum for C/C++. Importantly, all of labs were conducted by groups of two, in which each person had a direct partner, and the final project was a culmination of all of the labs and the joining of two groups of two, equaling four total people.
 
