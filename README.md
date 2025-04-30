@@ -25,6 +25,6 @@ Control the CyBot, via either remote, blind control of the CyBot using a GUI or 
 We would be penalized if any taller objects were ran into even a single time or if any of the shorter objects were ran into a second time. Further, we could not fall in the hole or exceed boundaries without receiving significant penalties. If we exceeded the provided time limit, we would also receive penalties for how much time we used past the limit.
 
 # Notes
-The majority of the final project's code may be found in the [288-mission/Final Project](https://github.com/loganroe-se/CprE_288/tree/1d10bfa3dd542ef13959e4a639ffdfaf043a7eac/288-mission/Final%20Project) folder.
+The majority of the final project's code may be found in the [288-mission/Final Project](https://github.com/loganroe-se/ISU_CprE_288/tree/main/288-mission/Final%20Project) folder.
 
 **Disclaimer: Due to the nature of the project and our general inexperience with projects, especially in groups, at this point, the code is not well organized or commented. Due to my lack of experience with programming at this point, these files are not written to the standard that I hold myself to now.
